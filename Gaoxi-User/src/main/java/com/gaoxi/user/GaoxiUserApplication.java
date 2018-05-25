@@ -14,6 +14,7 @@ public class GaoxiUserApplication extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(GaoxiUserApplication.class);
+		int a= 1/1;
 	}
 
 	public static void main(String[] args) {
